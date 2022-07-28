@@ -28,6 +28,7 @@ struct Home: View {
                 icon:{
                     Image(systemName: "plus")
                 }
+                
             }
         }
     }
